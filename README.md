@@ -9,9 +9,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat-square0&logo=instagram&link=https://www.instagram.com/demirciy94)](https://www.instagram.com/demirciy94)
 [![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square0&logo=twitter&link=https://twitter.com/demirciy7)](https://twitter.com/demirciy7)
 
-<a href="https://www.goodreads.com/user/show/109389757-yusuf-demirci">
-  <img src="https://img.shields.io/badge/-Good Reads-yellow?style=flat-square0&logo=goodreads&link=https://www.goodreads.com/user/show/109389757-yusuf-demirci"/>
-</a>
 <br></br>
 <a href="https://github.com/demirciy/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=demirciy&show_icons=true&include_all_commits=true&count_private=true" />
