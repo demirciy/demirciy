@@ -6,7 +6,7 @@
 [![Indie Hackers](https://img.shields.io/badge/-IndieHackers-0e2439?style=flat-square0&logo=IndieHackers&link=https://www.indiehackers.com/demirciy)](https://www.indiehackers.com/demirciy)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-white?style=flat-square0&logo=stackoverflow&link=https://stackoverflow.com/users/7800978/yusuf-demirci)](https://stackoverflow.com/users/7800978/yusuf-demirci)
 [![Good Reads](https://img.shields.io/badge/-GoodReads-yellow?style=flat-square0&logo=goodreads&link=https://stackoverflow.com/users/7800978/yusuf-demirci)](https://www.goodreads.com/user/show/109389757-yusuf-demirci)
-[![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat-square0&logo=instagram&link=https://www.instagram.com/demirciy94)](https://www.instagram.com/demirciy94)
+[![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat-square0&logo=instagram&link=https://www.instagram.com/demirciy94)](https://www.instagram.com/demirciy7)
 [![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square0&logo=twitter&link=https://twitter.com/demirciy7)](https://twitter.com/demirciy7)
 
 <br></br>
