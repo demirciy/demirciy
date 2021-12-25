@@ -1,3 +1,3 @@
 # Yusuf Demirci
 
-[Personal Website](https://bit.ly/3pnriTT)
+[Personal Website](https://bit.ly/3yWAj9N)
