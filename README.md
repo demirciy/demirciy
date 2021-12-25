@@ -1,3 +1,3 @@
 # Yusuf Demirci
 
-www.yusufdemirci.dev
+[Personal Website](https://bit.ly/3pnriTT)
