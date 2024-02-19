@@ -1,3 +1,3 @@
 # Yusuf Demirci
 
-[Personal Website](yusufdemirci.me)
+[Personal Website](http://yusufdemirci.me)
